@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Experienced Co-Founder with a demonstrated history of working in the computer software industry. Skilled in 
--,C
+I'm Akash Modak, an experienced Co-Founder with a demonstrated history of working in the Computer Software industry. Skilled in 
+- C
 - SQL
 - C++
 - Cascading Style Sheets (CSS)
