@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Experienced Co-Founder with a demonstrated history of working in the computer software industry. Skilled in 
--C
--SQL
--C++
--Cascading Style Sheets (CSS)
--Java
--JavaScript
--Python
--JQuery
--AJAX
--PHP
--Web Development
--Android Development
+-,C
+- SQL
+- C++
+- Cascading Style Sheets (CSS)
+- Java
+- JavaScript
+- Python
+- JQuery
+- AJAX
+- PHP
+- Web Development
+- Android Development
+- Vue.js
+- Firebase
+- Google API
 Strong engineering professional with an MCA - Master of Computer Applications focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology. 
 
 Currently, I'm looking for Internship Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation. 
