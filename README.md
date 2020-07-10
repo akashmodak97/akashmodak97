@@ -31,6 +31,6 @@ I'm Akash Modak, an experienced Co-Founder with a demonstrated history of workin
 - Firebase
 - Google API
 
-Strong engineering professional with an MCA - Master of Computer Applications focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology. 
+Strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
 Currently, I'm looking for Internship Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation. 
