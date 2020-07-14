@@ -24,7 +24,9 @@ I'm Akash Modak, an experienced Co-Founder with a demonstrated history of workin
 - Python
 - JQuery
 - AJAX
+- Bootstrap
 - PHP
+- PL/SQL
 - Web Development
 - Android Development
 - Vue.js
