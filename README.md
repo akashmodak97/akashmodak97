@@ -1,22 +1,23 @@
-# [Akash Modak](http://akashmodak97.wixsite.com/akashmodak) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="80px">
+# [Akash Modak](http://akashmodak97.wixsite.com/akashmodak) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 <br/>
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 
 <!--
 **akashmodak97/akashmodak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Akash Modak, an experienced Co-Founder with a demonstrated history of working in the Computer Software industry. Skilled in 
+- 🔭 I’m currently working on Natural Language Processing and Optical Character Recognition
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
+
+Skilled in 
 - C
 - SQL
 - C++
@@ -34,6 +35,8 @@ I'm Akash Modak, an experienced Co-Founder with a demonstrated history of workin
 - Vue.js
 - Firebase
 - Google API
+
+![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&hide_border=true)
 
 Strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
