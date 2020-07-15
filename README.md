@@ -34,7 +34,8 @@ Skilled in
 - Android Development
 - Vue.js
 - Firebase
-- Google API
+
+**Also Worked With Google APIs**
 
 ![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&hide_border=true)
 
