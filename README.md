@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40albertcavalcante%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw3y38TFHi4eMAM7vCOCW_r-&ust=1594915832945000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKimp8_Sz-oCFQAAAAAdAAAAABAr />
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40albertcavalcante%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw3y38TFHi4eMAM7vCOCW_r-&ust=1594915832945000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKimp8_Sz-oCFQAAAAAdAAAAABAr" />
 
 Skilled in 
 - C
