@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" />
 
 Skilled in 
-- C
-- SQL
 - C++
+- SQL
 - Cascading Style Sheets (CSS)
 - Java
 - JavaScript
@@ -31,7 +30,6 @@ Skilled in
 - AJAX
 - Bootstrap
 - PHP
-- PL/SQL
 - Web Development
 - Android Development
 - Vue.js
