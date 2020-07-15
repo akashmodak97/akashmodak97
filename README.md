@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" />
 
-Skilled in 
+**_Skilled in_** 
 - C++
 - SQL
 - Cascading Style Sheets (CSS)
