@@ -22,21 +22,22 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" />
 
-**_Skilled in_** 
-- C++
-- SQL
-- Cascading Style Sheets (CSS)
-- Java
-- JavaScript
-- Python
-- JQuery
-- AJAX
-- Bootstrap
-- PHP
-- Web Development
-- Android Development
-- Vue.js
-- Firebase
+**_Skilled in_**
+
+- `C++`
+- `SQL`
+- `Cascading Style Sheets (CSS)`
+- `Java`
+- `JavaScript`
+- `Python`
+- `JQuery`
+- `AJAX`
+- `Bootstrap`
+- `PHP`
+- `Web Development`
+- `Android Development`
+- `Vue.js`
+- `Firebase`
 
 
 **Languages and Tools:**  
