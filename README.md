@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 
 **Also Worked With Google APIs**
 
-![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&hide_border=true&themes=dracula)
- 
+![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=tokyonight)
+
 
 **Feel Free To Reach Me**
 
