@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 **Also Worked With Google APIs**
 
 
-<code><img height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula"></code>
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula"></code>
 <code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula"></code>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula)
 ![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula)-->
