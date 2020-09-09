@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Natural Language Processing and Optical Character Recognition
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
+- I’m currently working on Natural Language Processing and Optical Character Recognition
+- I’m currently learning Deep Learning
+- I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" />
 
@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 **Also Worked With Google APIs**
 
 
-<!--<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula"></code>
-<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula"></code>-->
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula"></code>
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula"></code>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula)
 ![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula)-->
  
