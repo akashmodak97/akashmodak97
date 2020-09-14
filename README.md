@@ -1,6 +1,6 @@
 # [Akash Modak](http://akashmodak97.wixsite.com/akashmodak) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 I'm a strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
