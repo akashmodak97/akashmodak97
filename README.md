@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - `PHP`
 - `Web Development`
 - `Android Development`
-- `Vue.js`
 - `Firebase`
 
 
