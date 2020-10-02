@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working on Natural Language Processing and Optical Character Recognition
+- I’m currently working on Natural Language Processing
 - I’m currently learning Deep Learning
-- I’m looking to collaborate on Open Source Projects Related to Android Development, Web Development and Machine Learning
+- I’m looking to collaborate on Open Source Projects Related to Android Development, and Web Development 
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" />
 
