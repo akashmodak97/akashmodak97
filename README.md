@@ -2,6 +2,8 @@
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
+![](https://komarev.com/ghpvc/?username=akashmodak97&color=fa6754)
+
 I'm a strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
 Currently, I'm looking for Internship Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation.
