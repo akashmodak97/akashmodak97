@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 - I’m currently working on Natural Language Processing
 - I’m currently learning Deep Learning
-- I’m looking to collaborate on Open Source Projects Related to Android Development, and Web Development 
+- I’m looking to collaborate on Open Source Projects related to Web Development 
 
 <!-- <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" /> -->
 
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 - `PHP`
 - `Web Development`
 - `Android Development`
-- `Firebase`
 
 
 
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
