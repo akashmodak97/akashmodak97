@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - I’m looking to collaborate on Open Source Projects related to Web Development 
 
 <!-- <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" /> -->
-
+<!--
 **_Skilled in_**
 
 - `C++`
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - `Web Development`
 - `Android Development`
 
-
+-->
 
 
 **Languages and Tools:**  
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Also Worked With Google APIs**
+<!--**Also Worked With Google APIs**-->
 
 
 <code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula"></code>
