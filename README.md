@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently working on Natural Language Processing
+- I’m currently working on Natural Language Processing and Web Development
 - I’m currently learning Deep Learning
 - I’m looking to collaborate on Open Source Projects related to Web Development 
 
