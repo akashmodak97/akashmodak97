@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 <!--**Also Worked With Google APIs**-->
 
 
-<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"></code>
-<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&bg_color=70,e96443,904e95&title_color=fff&text_color=fff&layout=compact"></code>
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&bg_color=30,e91943,904e95&title_color=fff&text_color=fff&count_private=true"></code>
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&bg_color=70,e91943,904e95&title_color=fff&text_color=fff&layout=compact"></code>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula)
 ![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula)-->
  
