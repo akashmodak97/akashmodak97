@@ -71,7 +71,7 @@ Here are some ideas to get you started:
  
 
 
-**Feel Free To Reach Me ( don't hesitate to ask for a referral to join Internshala :) )**
+**Feel Free To Reach Me ( don't hesitate to ask for a referral to join [Internshala](internshala.com/careers) 😀 )**
 
 <a href="https://twitter.com/akashmodak97">
   <img align="left" alt="Akash Modak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
