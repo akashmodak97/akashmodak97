@@ -6,39 +6,19 @@
 
 I'm a strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Web Development, Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
-Currently, I'm looking for Internship Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation.
-<!--
-**akashmodak97/akashmodak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm looking for Fulltime Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation.
 
-Here are some ideas to get you started:
+My objective is to seek a dynamic and challenging career in an organization where I could materialize my professional knowledge and interpersonal skills for mutual benefit of the organization and myself.
+
+**If I don't know SOMETHING, I will learn it!**
+<!--
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- - I’m currently working on Natural Language Processing and Web Development
-- I’m currently learning Deep Learning
-- I’m looking to collaborate on Open Source Projects related to Web Development -->
-
-<!-- <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="350px" /> -->
-<!--
-**_Skilled in_**
-
-- `C++`
-- `SQL`
-- `Cascading Style Sheets (CSS)`
-- `Java`
-- `JavaScript`
-- `Python`
-- `JQuery`
-- `AJAX`
-- `Bootstrap`
-- `PHP`
-- `Web Development`
-- `Android Development`
-
 -->
 
 
@@ -62,14 +42,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
-<!--**Also Worked With Google APIs**-->
-
-
 <code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&bg_color=30,e91943,904e95&title_color=fff&text_color=fff&count_private=true"></code>
-<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&bg_color=70,e91943,904e95&title_color=fff&text_color=fff&layout=compact"></code>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmodak97&theme=dracula)
-![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&theme=dracula)-->
- 
+
 
 
 **Feel Free To Reach Me ( don't hesitate to ask for a referral to join [Internshala](https://internshala.com/careers) 😀 )**
