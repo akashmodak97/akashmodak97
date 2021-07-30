@@ -6,8 +6,6 @@
 
 I'm a strong engineering professional, pursuing MCA - Master of Computer Applications and focused on Web Development, Natural Language Processing and Deep Learning from Heritage Institute of Technology, Kolkata. 
 
-Currently, I'm looking for Fulltime Opportunities in the field of Software Engineering, Full Stack Development, and Mobile Application Development. With 2years of experience in the field of Software Development, I will be a good fit into any kind of challenging situation.
-
 My objective is to seek a dynamic and challenging career in an organization where I could materialize my professional knowledge and interpersonal skills for mutual benefit of the organization and myself.
 
 **If I don't know SOMETHING, I will learn it!**
