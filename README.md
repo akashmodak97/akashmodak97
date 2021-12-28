@@ -44,7 +44,7 @@ My objective is to seek a dynamic and challenging career in an organization wher
 
 
 
-**Feel Free To Reach Me ( don't hesitate to ask for a referral to join [Internshala](https://internshala.com/careers) 😀 )**
+**Feel Free To Reach Me, open for Mentorship and Resume reviews! 😀 )**
 
 <a href="https://twitter.com/akashmodak97">
   <img align="left" alt="Akash Modak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
