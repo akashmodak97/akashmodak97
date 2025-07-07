@@ -17,7 +17,7 @@ My objective is to seek a dynamic and challenging career in an organization wher
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 **Languages and Tools:**  
@@ -38,7 +38,7 @@ My objective is to seek a dynamic and challenging career in an organization wher
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
+-->
 
 <code><img src="https://github-readme-stats.vercel.app/api?username=akashmodak97&show_icons=true&bg_color=30,e91943,904e95&title_color=fff&text_color=fff&count_private=true"></code>
 
